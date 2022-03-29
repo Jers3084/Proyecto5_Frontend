@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.precio {
+  height: 10px;
+}
+
+.inputcantidad {
+  width: 28px;
+  align-self: center;
+  
+}
+
+.boton_mas_menos {
+  width: 20px;
+}

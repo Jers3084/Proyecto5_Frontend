@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor {
+  padding-top: 80px;
+  width: 100%vw;
+  height: 100%vh;
+  background-color: #86b6b3;
+}
